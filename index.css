@@ -1,0 +1,10 @@
+#parent {
+  color: blue;
+}
+#child {
+  color: yellow;
+}
+
+#heading {
+  color: red;
+}
